@@ -28,6 +28,7 @@ if (( ! ${+ERR_COLOR} )) typeset -g ERR_COLOR=red
 
 setopt nopromptbang prompt{cr,percent,sp,subst}
 
+zstyle ':zim:prompt-pwd' git-root yes
 zstyle ':zim:prompt-pwd:fish-style' dir-length 1
 zstyle ':zim:prompt-pwd:separator' format '%F{244}/%f'
 
