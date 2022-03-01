@@ -1,6 +1,8 @@
 # zsh-theme
 A (not so) minimalist zsh theme for zim
 
+![Screenshot](https://github.com/ncihnegn/zsh-theme/raw/screenshot/screenshot.png)
+
 ## Usage
 * Use https://github.com/zimfw/zimfw
 * Add to your .zimrc:
